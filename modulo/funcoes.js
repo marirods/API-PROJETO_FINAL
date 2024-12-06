@@ -97,7 +97,7 @@ const StatusAlunosCurso = function(status, nomeCurso){
 }
 
 
-console.log(StatusAlunosCurso('Reprovado', 'DS'))
+// console.log(StatusAlunosCurso('Reprovado', 'DS'))
 
 
 const AnoConclusao = function(curso, ano){
